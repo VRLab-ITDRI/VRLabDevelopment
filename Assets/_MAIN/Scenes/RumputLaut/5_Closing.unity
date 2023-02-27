@@ -194,17 +194,17 @@ PrefabInstance:
     - target: {fileID: 2898489599157634988, guid: c0f0d9390c8d98342837d3c763b599ac,
         type: 3}
       propertyPath: isEnding
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2898489599157634988, guid: c0f0d9390c8d98342837d3c763b599ac,
-        type: 3}
-      propertyPath: delayTime
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2898489599157634988, guid: c0f0d9390c8d98342837d3c763b599ac,
         type: 3}
+      propertyPath: delayTime
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2898489599157634988, guid: c0f0d9390c8d98342837d3c763b599ac,
+        type: 3}
       propertyPath: changeSceneTo
-      value: 
+      value: MainMenu
       objectReference: {fileID: 0}
     - target: {fileID: 2898489599157634989, guid: c0f0d9390c8d98342837d3c763b599ac,
         type: 3}

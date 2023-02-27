@@ -26,9 +26,9 @@
 [Info][OPS.OBF][OnPreBuild] Process component Analyse MonoScript
 [Info][OPS.OBF][OnAnalyse_Assets] Skip component Analyse Unity Animation Methods
 [Info][OPS.OBF][OnProcess_Assets] Skip component Analyse Unity Animation Methods
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in loaded build scene Assets/_MAIN/Scenes/RumputLaut/5_Closing.unity.
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 6 Root GameObjects in Scene Assets/_MAIN/Scenes/RumputLaut/5_Closing.unity
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 141 Components in Scene Assets/_MAIN/Scenes/RumputLaut/5_Closing.unity
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in loaded build scene Assets/_MAIN/Scenes/MainMenu.unity.
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 7 Root GameObjects in Scene Assets/_MAIN/Scenes/MainMenu.unity
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 257 Components in Scene Assets/_MAIN/Scenes/MainMenu.unity
 [Info][OPS.OBF][OnAnalyse_Component_Scenes] Skip component Analyse Unity Gui Component
 [Info][OPS.OBF][OnAnalyse_Component_Scenes] Process component Analyse MonoScript
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEditor.XR.LegacyInputHelpers.CameraOffset for XRRig
@@ -55,13 +55,209 @@
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for XRPlatformControllerSetup (1):
   - Unity.Template.VR.XRPlatformControllerSetup
 
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference SceneController for Scene_Controller
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Scene_Controller (1):
-  - SceneController
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.CanvasScaler for Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
+  - UnityEngine.UI.CanvasScaler
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.GraphicRaycaster for Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
+  - UnityEngine.UI.GraphicRaycaster
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference MainMenu for Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
+  - MainMenu
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for setting_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for setting_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for setting_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for setting_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for setting_frame
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for setting_frame (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for audio_on
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for audio_on (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for audio_on
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for audio_on (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Image (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for audio_off
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for audio_off (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for audio_off
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for audio_off (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Image
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Image (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for back_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for back_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for back_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for back_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for rumputlaut_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for rumputlaut_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for rumputlaut_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for rumputlaut_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for info_placeholder
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for info_placeholder (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for text_placeholder
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for text_placeholder (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for close_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for close_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for close_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for close_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for next_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for next_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for next_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for next_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for keramba_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for keramba_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for info_placeholder
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for info_placeholder (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for text_placeholder
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for text_placeholder (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for close_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for close_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for close_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for close_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for next_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for next_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for next_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for next_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for hiupaus_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for hiupaus_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for info_placeholder
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for info_placeholder (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for text_placeholder
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for text_placeholder (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for close_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for close_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for close_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for close_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for next_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for next_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for next_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for next_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for rumputlaut_banner
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for rumputlaut_banner (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for rumputlaut_play
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for rumputlaut_play (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for rumputlaut_play
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for rumputlaut_play (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.EventSystems.EventSystem for EventSystem
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for EventSystem (1):
+  - UnityEngine.EventSystems.EventSystem
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.EventSystems.StandaloneInputModule for EventSystem
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for EventSystem (1):
+  - UnityEngine.EventSystems.StandaloneInputModule
 
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in not loaded build scene Assets/_MAIN/Scenes/RumputLaut/1_Opening.unity.
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 6 Root GameObjects in Scene Assets/_MAIN/Scenes/RumputLaut/1_Opening.unity
-[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 141 Components in Scene Assets/_MAIN/Scenes/RumputLaut/1_Opening.unity
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 8 Root GameObjects in Scene Assets/_MAIN/Scenes/RumputLaut/1_Opening.unity
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 179 Components in Scene Assets/_MAIN/Scenes/RumputLaut/1_Opening.unity
 [Info][OPS.OBF][OnAnalyse_Component_Scenes] Skip component Analyse Unity Gui Component
 [Info][OPS.OBF][OnAnalyse_Component_Scenes] Process component Analyse MonoScript
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEditor.XR.LegacyInputHelpers.CameraOffset for XRRig
@@ -91,6 +287,74 @@
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference SceneController for Scene_Controller
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Scene_Controller (1):
   - SceneController
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.CanvasScaler for Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
+  - UnityEngine.UI.CanvasScaler
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.GraphicRaycaster for Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
+  - UnityEngine.UI.GraphicRaycaster
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference PopUp for Canvas
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Canvas (1):
+  - PopUp
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for dropdown_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for dropdown_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for dropdown_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for dropdown_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for Frame
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Frame (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for info_placeholder
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for info_placeholder (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for text_placeholder
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for text_placeholder (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for close_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for close_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for close_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for close_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Image for next_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for next_btn (1):
+  - UnityEngine.UI.Image
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.UI.Button for next_btn
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for next_btn (1):
+  - UnityEngine.UI.Button
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference TMPro.TextMeshProUGUI for Text (TMP)
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Text (TMP) (1):
+  - TMPro.TextMeshProUGUI
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.EventSystems.EventSystem for EventSystem
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for EventSystem (1):
+  - UnityEngine.EventSystems.EventSystem
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.EventSystems.StandaloneInputModule for EventSystem
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for EventSystem (1):
+  - UnityEngine.EventSystems.StandaloneInputModule
 
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in not loaded build scene Assets/_MAIN/Scenes/RumputLaut/2_SpeadBoatToEkasBay.unity.
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 6 Root GameObjects in Scene Assets/_MAIN/Scenes/RumputLaut/2_SpeadBoatToEkasBay.unity
@@ -161,6 +425,39 @@
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in not loaded build scene Assets/_MAIN/Scenes/RumputLaut/4_VideoKomoditasRumputLautBawahAir.unity.
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 6 Root GameObjects in Scene Assets/_MAIN/Scenes/RumputLaut/4_VideoKomoditasRumputLautBawahAir.unity
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 141 Components in Scene Assets/_MAIN/Scenes/RumputLaut/4_VideoKomoditasRumputLautBawahAir.unity
+[Info][OPS.OBF][OnAnalyse_Component_Scenes] Skip component Analyse Unity Gui Component
+[Info][OPS.OBF][OnAnalyse_Component_Scenes] Process component Analyse MonoScript
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEditor.XR.LegacyInputHelpers.CameraOffset for XRRig
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for XRRig (1):
+  - UnityEditor.XR.LegacyInputHelpers.CameraOffset
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.SpatialTracking.TrackedPoseDriver for Main Camera
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Main Camera (1):
+  - UnityEngine.SpatialTracking.TrackedPoseDriver
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference SwipeController for Main Camera
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Main Camera (1):
+  - SwipeController
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.SpatialTracking.TrackedPoseDriver for RightController
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for RightController (1):
+  - UnityEngine.SpatialTracking.TrackedPoseDriver
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEngine.SpatialTracking.TrackedPoseDriver for LeftController
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for LeftController (1):
+  - UnityEngine.SpatialTracking.TrackedPoseDriver
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference Unity.Template.VR.XRPlatformControllerSetup for XRPlatformControllerSetup
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for XRPlatformControllerSetup (1):
+  - Unity.Template.VR.XRPlatformControllerSetup
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference SceneController for Scene_Controller
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference in serialized properties for Scene_Controller (1):
+  - SceneController
+
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Iterate components in not loaded build scene Assets/_MAIN/Scenes/RumputLaut/5_Closing.unity.
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 6 Root GameObjects in Scene Assets/_MAIN/Scenes/RumputLaut/5_Closing.unity
+[Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found 141 Components in Scene Assets/_MAIN/Scenes/RumputLaut/5_Closing.unity
 [Info][OPS.OBF][OnAnalyse_Component_Scenes] Skip component Analyse Unity Gui Component
 [Info][OPS.OBF][OnAnalyse_Component_Scenes] Process component Analyse MonoScript
 [Debug][OPS.OBF][OnAnalyse_Component_Scenes] Found mono script reference UnityEditor.XR.LegacyInputHelpers.CameraOffset for XRRig
@@ -282,17 +579,17 @@
   - C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\PlaybackEngines\LinuxStandaloneSupport
   - C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\PlaybackEngines\MetroSupport
   - C:\Users\clayt\Documents\GitHub\VRLab-Development\Library\ScriptAssemblies
+  - C:\Users\clayt\Documents\GitHub\VRLab-Development\Assets\OPS\Plugins\Json
+  - C:\Users\clayt\Documents\GitHub\VRLab-Development\Assets\OPS\Editor\Plugins\OPS.Assets.Editor
   - C:\Users\clayt\Documents\GitHub\VRLab-Development\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip
+  - C:\Users\clayt\Documents\GitHub\VRLab-Development\Assets\OPS\Editor\Plugins\Mono.Cecil
   - C:\Users\clayt\Documents\GitHub\VRLab-Development\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM
+  - C:\Users\clayt\Documents\GitHub\VRLab-Development\Assets\OPS\Obfuscator\Editor\Plugins
   - C:\Users\clayt\Documents\GitHub\VRLab-Development\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator
   - C:\Users\clayt\Documents\GitHub\VRLab-Development\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom
   - C:\Users\clayt\Documents\GitHub\VRLab-Development\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet
   - C:\Users\clayt\Documents\GitHub\VRLab-Development\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\EditorAssetResources
   - C:\Users\clayt\Documents\GitHub\VRLab-Development\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc
-  - C:\Users\clayt\Documents\GitHub\VRLab-Development\Assets\OPS\Plugins\Json
-  - C:\Users\clayt\Documents\GitHub\VRLab-Development\Assets\OPS\Editor\Plugins\OPS.Assets.Editor
-  - C:\Users\clayt\Documents\GitHub\VRLab-Development\Assets\OPS\Editor\Plugins\Mono.Cecil
-  - C:\Users\clayt\Documents\GitHub\VRLab-Development\Assets\OPS\Obfuscator\Editor\Plugins
   - C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\PlaybackEngines\AndroidPlayer\Variations\il2cpp\Managed
   - C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api
   - C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades
@@ -341,12 +638,16 @@
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Find MemberReferences...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Analyse Type References in Module...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Analyse Type References in Custom Attribute References...
+[Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] MainMenu]  Analyse Type References in Custom Attribute References...
+[Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] PopUp/<ChangeScene>d__8]  Analyse Type References in Custom Attribute References...
+[Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] PopUp]  Analyse Type References in Custom Attribute References...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] SceneController/<ChangesScene>d__7]  Analyse Type References in Custom Attribute References...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] SceneController/<ExitScene>d__8]  Analyse Type References in Custom Attribute References...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] SceneController]  Analyse Type References in Custom Attribute References...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] SwipeController]  Analyse Type References in Custom Attribute References...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] Unity.Template.VR.XRPlatformControllerSetup]  Analyse Type References in Custom Attribute References...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Find Member to skip...
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Types Namespace [[Assembly-CSharp] PopUp/<ChangeScene>d__8] Is a nested class and has no namespace.
 [Info][OPS.OBF][OnAnalyse_Assemblies] Skip Types Namespace [[Assembly-CSharp] SceneController/<ChangesScene>d__7] Is a nested class and has no namespace.
 [Info][OPS.OBF][OnAnalyse_Assemblies] Skip Types Namespace [[Assembly-CSharp] SceneController/<ExitScene>d__8] Is a nested class and has no namespace.
 [Info][OPS.OBF][OnAnalyse_Assemblies] Skip Types Namespace [[Assembly-CSharp] SceneController] Because of compatibility component: Unity - Compatibility : The class or base class contains some serializeable fields and the 'Serialize Fields' settings is deactivated.
@@ -356,6 +657,9 @@
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Find MemberReferences...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Analyse Type References in Module...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Analyse Type References in Custom Attribute References...
+[Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] MainMenu]  Analyse Type References in Custom Attribute References...
+[Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] PopUp/<ChangeScene>d__8]  Analyse Type References in Custom Attribute References...
+[Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] PopUp]  Analyse Type References in Custom Attribute References...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] SceneController/<ChangesScene>d__7]  Analyse Type References in Custom Attribute References...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] SceneController/<ExitScene>d__8]  Analyse Type References in Custom Attribute References...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [[Assembly-CSharp] SceneController]  Analyse Type References in Custom Attribute References...
@@ -376,6 +680,14 @@
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Find Field References in Instructions...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Find Member to skip...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Skip Methods...
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Void MainMenu::Start()] Because of compatibility component: Unity - Compatibility : Is MonoBehaviour Method.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Void MainMenu::Update()] Because of compatibility component: Unity - Compatibility : Is MonoBehaviour Method.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Void MainMenu::.ctor()] Because of compatibility component: .Net Framework - Compatibility : Is Special.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Void PopUp/<ChangeScene>d__8::.ctor(System.Int32)] Because of compatibility component: .Net Framework - Compatibility : Is Special.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Boolean PopUp/<ChangeScene>d__8::MoveNext()] Because of compatibility component: .Net Framework - Compatibility : Is Special.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Void PopUp::Start()] Because of compatibility component: Unity - Compatibility : Is MonoBehaviour Method.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Void PopUp::Update()] Because of compatibility component: Unity - Compatibility : Is MonoBehaviour Method.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Void PopUp::.ctor()] Because of compatibility component: .Net Framework - Compatibility : Is Special.
 [Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Void SceneController/<ChangesScene>d__7::.ctor(System.Int32)] Because of compatibility component: .Net Framework - Compatibility : Is Special.
 [Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Boolean SceneController/<ChangesScene>d__7::MoveNext()] Because of compatibility component: .Net Framework - Compatibility : Is Special.
 [Info][OPS.OBF][OnAnalyse_Assemblies] Skip Method [[Assembly-CSharp] System.Void SceneController/<ExitScene>d__8::.ctor(System.Int32)] Because of compatibility component: .Net Framework - Compatibility : Is Special.
@@ -397,6 +709,14 @@
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Find Field References in Instructions...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Find Member to skip...
 [Info][OPS.OBF][OnAnalyse_Assemblies] [Assembly-CSharp] Skip Fields...
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] UnityEngine.GameObject MainMenu::panelRumputLaut] Because of compatibility component: Unity - Compatibility : The class is a Unity class (MonoBehaviour/...) and the setting 'Obfuscate Public unity fields' is deactivated.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] UnityEngine.GameObject MainMenu::panelSetting] Because of compatibility component: Unity - Compatibility : The class is a Unity class (MonoBehaviour/...) and the setting 'Obfuscate Public unity fields' is deactivated.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] UnityEngine.GameObject MainMenu::btnAudioOn] Because of compatibility component: Unity - Compatibility : The class is a Unity class (MonoBehaviour/...) and the setting 'Obfuscate Public unity fields' is deactivated.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] UnityEngine.GameObject MainMenu::btnAudioOff] Because of compatibility component: Unity - Compatibility : The class is a Unity class (MonoBehaviour/...) and the setting 'Obfuscate Public unity fields' is deactivated.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] System.String MainMenu::loadSceneName] Because of compatibility component: Unity - Compatibility : The class is a Unity class (MonoBehaviour/...) and the setting 'Obfuscate Public unity fields' is deactivated.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] UnityEngine.GameObject PopUp::frame] Because of compatibility component: Unity - Compatibility : The class is a Unity class (MonoBehaviour/...) and the setting 'Obfuscate Public unity fields' is deactivated.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] UnityEngine.AudioSource PopUp::audios] Because of compatibility component: Unity - Compatibility : The class is a Unity class (MonoBehaviour/...) and the setting 'Obfuscate Public unity fields' is deactivated.
+[Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] System.String PopUp::nextSceneName] Because of compatibility component: Unity - Compatibility : The class is a Unity class (MonoBehaviour/...) and the setting 'Obfuscate Public unity fields' is deactivated.
 [Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] System.String SceneController::changeSceneTo] Because of compatibility component: Unity - Compatibility : The class is a Unity class (MonoBehaviour/...) and the setting 'Obfuscate Public unity fields' is deactivated.
 [Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] System.Single SceneController::delayTime] Because of compatibility component: Unity - Compatibility : The class is a Unity class (MonoBehaviour/...) and the setting 'Obfuscate Public unity fields' is deactivated.
 [Info][OPS.OBF][OnAnalyse_Assemblies] Skip Field [[Assembly-CSharp] System.Boolean SceneController::isEnding] Because of compatibility component: Unity - Compatibility : The field is serializable and the settings 'Obfuscate SerializeAble fields' got deactivated.
@@ -451,53 +771,84 @@
 [Info][OPS.OBF][OnPostAnalyse_Assemblies] Process component Not Obfuscate Cause
 [Info][OPS.OBF][OnPostAnalyse_Assemblies] Process component Remove Obfuscator Attributes
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Process component Namespace - Settings
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Namespace [[Assembly-CSharp] MainMenu] : 
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Namespace [[Assembly-CSharp] PopUp] : 
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Namespace [[Assembly-CSharp] SwipeController] : 
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Process component Class - Obfuscation
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Name [[Assembly-CSharp] SceneController/<ChangesScene>d__7] : a
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Name [[Assembly-CSharp] SceneController/<ExitScene>d__8] : b
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Name [[Assembly-CSharp] SwipeController] : c
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Name [[Assembly-CSharp] MainMenu] : a
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Name [[Assembly-CSharp] PopUp/<ChangeScene>d__8] : b
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Name [[Assembly-CSharp] PopUp] : c
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Name [[Assembly-CSharp] SceneController/<ChangesScene>d__7] : d
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Name [[Assembly-CSharp] SceneController/<ExitScene>d__8] : e
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found a new Type Name [[Assembly-CSharp] SwipeController] : f
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Process component Method - Obfuscation
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void SceneController/<ChangesScene>d__7::System.IDisposable.Dispose()] : d
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] : e
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.Reset()] : f
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.get_Current()] : g
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void SceneController/<ExitScene>d__8::System.IDisposable.Dispose()] : h
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] : i
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void SceneController/<ExitScene>d__8::System.Collections.IEnumerator.Reset()] : j
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.IEnumerator.get_Current()] : k
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Collections.IEnumerator SceneController::ChangesScene()] : l
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Collections.IEnumerator SceneController::ExitScene()] : m
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void MainMenu::ShowSetting()] : g
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void MainMenu::CloseSetting()] : h
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void MainMenu::MuteToogle(System.Boolean)] : i
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void MainMenu::ShowRumputLaut()] : j
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void MainMenu::PlayRumputLaut()] : k
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void PopUp/<ChangeScene>d__8::System.IDisposable.Dispose()] : l
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] : m
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void PopUp/<ChangeScene>d__8::System.Collections.IEnumerator.Reset()] : n
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::System.Collections.IEnumerator.get_Current()] : o
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void PopUp::ShowPopUp()] : p
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void PopUp::ClosePopUp()] : q
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void PopUp::NextScene()] : r
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Collections.IEnumerator PopUp::ChangeScene()] : s
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void SceneController/<ChangesScene>d__7::System.IDisposable.Dispose()] : t
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] : u
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.Reset()] : v
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.get_Current()] : w
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void SceneController/<ExitScene>d__8::System.IDisposable.Dispose()] : x
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] : y
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Void SceneController/<ExitScene>d__8::System.Collections.IEnumerator.Reset()] : z
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.IEnumerator.get_Current()] : ba
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Collections.IEnumerator SceneController::ChangesScene()] : bb
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Method Name [[Assembly-CSharp] System.Collections.IEnumerator SceneController::ExitScene()] : bc
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Process component Field - Obfuscation
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Int32 SceneController/<ChangesScene>d__7::<>1__state] : n
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::<>2__current] : o
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] SceneController SceneController/<ChangesScene>d__7::<>4__this] : p
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Int32 SceneController/<ExitScene>d__8::<>1__state] : q
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::<>2__current] : r
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] UnityEngine.AudioSource SceneController::audios] : s
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Single SwipeController::startMouseX] : t
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Single SwipeController::startMouseY] : u
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] UnityEngine.Camera SwipeController::cam] : v
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Int32 PopUp/<ChangeScene>d__8::<>1__state] : bd
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::<>2__current] : be
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] PopUp PopUp/<ChangeScene>d__8::<>4__this] : bf
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Int32 SceneController/<ChangesScene>d__7::<>1__state] : bg
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::<>2__current] : bh
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] SceneController SceneController/<ChangesScene>d__7::<>4__this] : bi
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Int32 SceneController/<ExitScene>d__8::<>1__state] : bj
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::<>2__current] : bk
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] UnityEngine.AudioSource SceneController::audios] : bl
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Single SwipeController::startMouseX] : bm
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] System.Single SwipeController::startMouseY] : bn
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Field Name [[Assembly-CSharp] UnityEngine.Camera SwipeController::cam] : bo
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Process component Property - Obfuscation
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found group Property Name [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.Current()] : 
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Property Name [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.Current()] : bp
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found group Property Name [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::System.Collections.IEnumerator.Current()] : 
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Property Name [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::System.Collections.IEnumerator.Current()] : bq
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Found group Property Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.Generic.IEnumerator<System.Object>.Current()] : 
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Property Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.Generic.IEnumerator<System.Object>.Current()] : w
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Property Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.Generic.IEnumerator<System.Object>.Current()] : br
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Found group Property Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.Current()] : 
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Property Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.Current()] : x
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Property Name [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.Current()] : bs
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Found group Property Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.Current()] : 
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Property Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.Current()] : y
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Property Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.Current()] : bt
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Found group Property Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.IEnumerator.Current()] : 
-[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Property Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.IEnumerator.Current()] : z
+[Info][OPS.OBF][OnFindMemberNames_Assemblies] Found new Property Name [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.IEnumerator.Current()] : bu
 [Info][OPS.OBF][OnFindMemberNames_Assemblies] Process component Event - Obfuscation
 [Info][OPS.OBF][OnObfuscate_Assemblies] Skip component Unity Animation Methods - Compatibility
 [Info][OPS.OBF][OnObfuscate_Assemblies] Skip component Unity Gui Methods - Compatibility
 [Info][OPS.OBF][OnObfuscate_Assemblies] Skip component String Reflection and Coroutine - Compatibility
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Namespace - Settings
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type Namespace [[Assembly-CSharp] MainMenu] to 
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type Namespace [[Assembly-CSharp] PopUp] to 
 [Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type Namespace [[Assembly-CSharp] SwipeController] to 
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Class - Obfuscation
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type [[Assembly-CSharp] MainMenu] to a
+[Info][OPS.OBF][OnObfuscate_Assemblies] Update Reference Type [[Assembly-CSharp] PopUp/<ChangeScene>d__8]
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type [[Assembly-CSharp] PopUp/<ChangeScene>d__8] to b
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type [[Assembly-CSharp] PopUp] to c
 [Info][OPS.OBF][OnObfuscate_Assemblies] Update Reference Type [[Assembly-CSharp] SceneController/<ChangesScene>d__7]
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type [[Assembly-CSharp] SceneController/<ChangesScene>d__7] to a
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type [[Assembly-CSharp] SceneController/<ChangesScene>d__7] to d
 [Info][OPS.OBF][OnObfuscate_Assemblies] Update Reference Type [[Assembly-CSharp] SceneController/<ExitScene>d__8]
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type [[Assembly-CSharp] SceneController/<ExitScene>d__8] to b
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type [[Assembly-CSharp] SwipeController] to c
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type [[Assembly-CSharp] SceneController/<ExitScene>d__8] to e
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Type [[Assembly-CSharp] SwipeController] to f
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Type Cache Replacement
 [Info][OPS.OBF][OnObfuscate_Assemblies] [Assembly-CSharp] Replace Type Namespace and Name Cache...
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component MonoBehaviour - Class - Obfuscation
@@ -505,33 +856,51 @@
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component ScriptableObject - Class - Obfuscation
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Playable - Class - Obfuscation
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Method - Obfuscation
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void SceneController/<ChangesScene>d__7::System.IDisposable.Dispose()] to d
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] to e
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.Reset()] to f
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.get_Current()] to g
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void SceneController/<ExitScene>d__8::System.IDisposable.Dispose()] to h
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] to i
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void SceneController/<ExitScene>d__8::System.Collections.IEnumerator.Reset()] to j
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.IEnumerator.get_Current()] to k
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Collections.IEnumerator SceneController::ChangesScene()] to l
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Collections.IEnumerator SceneController::ExitScene()] to m
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void MainMenu::ShowSetting()] to g
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void MainMenu::CloseSetting()] to h
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void MainMenu::MuteToogle(System.Boolean)] to i
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void MainMenu::ShowRumputLaut()] to j
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void MainMenu::PlayRumputLaut()] to k
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void PopUp/<ChangeScene>d__8::System.IDisposable.Dispose()] to l
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] to m
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void PopUp/<ChangeScene>d__8::System.Collections.IEnumerator.Reset()] to n
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::System.Collections.IEnumerator.get_Current()] to o
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void PopUp::ShowPopUp()] to p
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void PopUp::ClosePopUp()] to q
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void PopUp::NextScene()] to r
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Collections.IEnumerator PopUp::ChangeScene()] to s
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void SceneController/<ChangesScene>d__7::System.IDisposable.Dispose()] to t
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] to u
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.Reset()] to v
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.get_Current()] to w
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void SceneController/<ExitScene>d__8::System.IDisposable.Dispose()] to x
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.get_Current()] to y
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Void SceneController/<ExitScene>d__8::System.Collections.IEnumerator.Reset()] to z
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.IEnumerator.get_Current()] to ba
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Collections.IEnumerator SceneController::ChangesScene()] to bb
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Method [[Assembly-CSharp] System.Collections.IEnumerator SceneController::ExitScene()] to bc
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Parameter - Obfuscation
 [Info][OPS.OBF][OnObfuscate_Assemblies] [Assembly-CSharp] Obfuscating Parameter...
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Field - Obfuscation
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Int32 SceneController/<ChangesScene>d__7::<>1__state] to n
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::<>2__current] to o
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] SceneController SceneController/<ChangesScene>d__7::<>4__this] to p
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Int32 SceneController/<ExitScene>d__8::<>1__state] to q
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::<>2__current] to r
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] UnityEngine.AudioSource SceneController::audios] to s
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Single SwipeController::startMouseX] to t
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Single SwipeController::startMouseY] to u
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] UnityEngine.Camera SwipeController::cam] to v
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Int32 PopUp/<ChangeScene>d__8::<>1__state] to bd
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::<>2__current] to be
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] PopUp PopUp/<ChangeScene>d__8::<>4__this] to bf
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Int32 SceneController/<ChangesScene>d__7::<>1__state] to bg
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::<>2__current] to bh
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] SceneController SceneController/<ChangesScene>d__7::<>4__this] to bi
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Int32 SceneController/<ExitScene>d__8::<>1__state] to bj
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::<>2__current] to bk
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] UnityEngine.AudioSource SceneController::audios] to bl
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Single SwipeController::startMouseX] to bm
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] System.Single SwipeController::startMouseY] to bn
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Field [[Assembly-CSharp] UnityEngine.Camera SwipeController::cam] to bo
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Property - Obfuscation
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Property [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.Generic.IEnumerator<System.Object>.Current()] to w
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Property [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.Current()] to x
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Property [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.Current()] to y
-[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Property [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.IEnumerator.Current()] to z
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Property [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.Current()] to bp
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Property [[Assembly-CSharp] System.Object PopUp/<ChangeScene>d__8::System.Collections.IEnumerator.Current()] to bq
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Property [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.Generic.IEnumerator<System.Object>.Current()] to br
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Property [[Assembly-CSharp] System.Object SceneController/<ChangesScene>d__7::System.Collections.IEnumerator.Current()] to bs
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Property [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.Generic.IEnumerator<System.Object>.Current()] to bt
+[Info][OPS.OBF][OnObfuscate_Assemblies] Rename Property [[Assembly-CSharp] System.Object SceneController/<ExitScene>d__8::System.Collections.IEnumerator.Current()] to bu
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Event - Obfuscation
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Attribute - Settings
 [Info][OPS.OBF][OnObfuscate_Assemblies] Process component Add Random Code
