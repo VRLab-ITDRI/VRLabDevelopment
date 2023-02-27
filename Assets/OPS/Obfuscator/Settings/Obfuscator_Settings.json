@@ -74,7 +74,7 @@
         {
           "Type" : "Bool",
           "Key" : "Enable_Try_Find_Inspector_Animation_Methods",
-          "Value" : "True",
+          "Value" : "False",
           "Values" : null
         }
       ]
@@ -85,7 +85,7 @@
         {
           "Type" : "Bool",
           "Key" : "Enable_Try_Find_Inspector_Gui_Methods",
-          "Value" : "True",
+          "Value" : "False",
           "Values" : null
         }
       ]
@@ -96,7 +96,7 @@
         {
           "Type" : "Bool",
           "Key" : "Enable_Try_Find_String_Reflection_And_Coroutine",
-          "Value" : "True",
+          "Value" : "False",
           "Values" : null
         }
       ]
@@ -417,7 +417,7 @@
       ]
     }
   ],
-  "Version" : "5.0.3",
+  "Version" : "5.0.4",
   "SettingElement_Array" : [
     {
       "Type" : "Bool",
