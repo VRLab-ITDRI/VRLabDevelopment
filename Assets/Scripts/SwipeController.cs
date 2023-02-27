@@ -11,12 +11,12 @@ public class SwipeController : MonoBehaviour
     float startMouseY;
 
     // Camera component
-    public Camera cam;
+    private Camera cam;
     // Start is called before the first frame update
     void Start()
     {
         // Get our camera component
-        cam = this.gameObject.GetComponent<Camera>();
+        cam = GetComponent<Camera>();
     }
 
     // Update is called once per frame

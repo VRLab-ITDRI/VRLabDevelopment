@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/_MAIN/Scenes/RumputLaut/1_Opening.unity
+    guid: fff1dcdc00112214b80bf1f2e3edc881
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/RumputLaut/2_SpeadBoatToEkasBay.unity
+    guid: 2c816695bb518444abfb8ae78f8aff95
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/RumputLaut/3_RumputLautBawahAir.unity
+    guid: c8fa1e25e4e465e4aba52e002f43ed89
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/RumputLaut/4_VideoKomoditasRumputLautBawahAir.unity
+    guid: e983a4df660122743951b23f56a00dff
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/RumputLaut/5_Closing.unity
+    guid: 3214ea8cd5bb2b94aad0ed007832eb17
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
