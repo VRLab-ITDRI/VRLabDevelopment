@@ -6,17 +6,19 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     public GameObject panelRumputLaut;
+    public GameObject panelKeramba;
+    public GameObject panelHiuPaus;
     public GameObject panelSetting;
 
     public GameObject btnAudioOn;
     public GameObject btnAudioOff;
 
-    public string loadSceneName;
-
     // Start is called before the first frame update
     void Start()
     {
         panelRumputLaut.SetActive(false);
+        panelKeramba.SetActive(false);
+        panelHiuPaus.SetActive(false);
         panelSetting.SetActive(false);
         btnAudioOn.SetActive(true);
         btnAudioOff.SetActive(false);
@@ -56,11 +58,42 @@ public class MainMenu : MonoBehaviour
 
     public void ShowRumputLaut()
     {
+        StartCoroutine(ClosePanel());
         panelRumputLaut.SetActive(true);
     }
 
     public void PlayRumputLaut()
     {
-        SceneManager.LoadScene(loadSceneName);
+        SceneManager.LoadScene("1_Opening");
+    }
+
+    public void ShowKeramba()
+    {
+        StartCoroutine(ClosePanel());
+        panelKeramba.SetActive(true);
+    }
+
+    public void PlayKeramba()
+    {
+        SceneManager.LoadScene("1_keramba_opening");
+    }
+
+    public void ShowHiuPaus()
+    {
+        StartCoroutine(ClosePanel());
+        panelHiuPaus.SetActive(true);
+    }
+
+    public void PlayHiuPaus()
+    {
+        SceneManager.LoadScene("1_HiuPaus");
+    }
+
+    IEnumerator ClosePanel()
+    {
+        panelRumputLaut.SetActive(false);
+        panelKeramba.SetActive(false);
+        panelHiuPaus.SetActive(false);
+        yield return new WaitForSeconds(0.5f);
     }
 }

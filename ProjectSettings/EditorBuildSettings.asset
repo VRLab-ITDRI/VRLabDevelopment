@@ -23,6 +23,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_MAIN/Scenes/RumputLaut/5_Closing.unity
     guid: 3214ea8cd5bb2b94aad0ed007832eb17
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/HiuPaus/1_HiuPaus.unity
+    guid: 674fc49012ed6ba46b59dababc503a1e
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/HiuPaus/2_HiuPaus.unity
+    guid: 7616259891bbb2941a1e6d340f0024f3
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/HiuPaus/3_HiuPaus.unity
+    guid: 33a07bb764b696a4581cc28a6952058f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}

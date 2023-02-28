@@ -33,7 +33,7 @@ public class SceneController : MonoBehaviour
         {
             if (!videos.isPlaying)
             {
-                StartCoroutine(ExitScene());
+                //StartCoroutine(ExitScene());
             }
         }
     }
@@ -44,12 +44,12 @@ public class SceneController : MonoBehaviour
         SceneManager.LoadScene(changeSceneTo);
     }
 
-    IEnumerator ExitScene()
-    {
-        yield return new WaitForSeconds(2f);
-        Application.Quit();
-#if UNITY_EDITOR
-        Debug.Log("Sudah keluar VR!");
-#endif
-    }
+//    IEnumerator ExitScene()
+//    {
+//        yield return new WaitForSeconds(2f);
+//        Application.Quit();
+//#if UNITY_EDITOR
+//        Debug.Log("Sudah keluar VR!");
+//#endif
+//    }
 }
