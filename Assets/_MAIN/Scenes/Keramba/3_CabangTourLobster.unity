@@ -226,7 +226,7 @@ VideoPlayer:
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
-  - 1
+  - 0.1
   m_Url: 
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
@@ -266,7 +266,7 @@ GameObject:
   - component: {fileID: 409916909}
   - component: {fileID: 409916913}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: TambakApung
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -734,7 +734,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7b4dd9ca7cbfeb047a7202f2a1b88603, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 75ae7948f99767c4ca87bf2e9cdcb288, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -919,6 +919,7 @@ GameObject:
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
+  - component: {fileID: 963194231}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1010,6 +1011,19 @@ MonoBehaviour:
   m_TrackingType: 0
   m_UpdateType: 0
   m_UseRelativeTransform: 0
+--- !u!114 &963194231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a50a9b3a99153d644b7c421acfc333ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDragging: 0
 --- !u!1 &1045848415
 GameObject:
   m_ObjectHideFlags: 0
@@ -1056,7 +1070,7 @@ GameObject:
   - component: {fileID: 1259712244}
   - component: {fileID: 1259712248}
   m_Layer: 5
-  m_Name: Canvas (1)
+  m_Name: TambakBawahAir
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1186,7 +1200,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 80f221e78a06ddc469dd7de5094732a1, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 72fd73e21d08a454382d280b2d678448, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1460,7 +1474,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7a12cb9645db07e4bb6eef82f74aad89, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4a36a25b779e24a439faccb0d8ede109, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

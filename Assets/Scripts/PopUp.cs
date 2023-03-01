@@ -42,7 +42,7 @@ public class PopUp : MonoBehaviour
 
     IEnumerator ChangeScene()
     {
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(2f);
         SceneManager.LoadScene(nextSceneName);
     }
 }

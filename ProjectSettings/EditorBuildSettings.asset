@@ -24,6 +24,33 @@ EditorBuildSettings:
     path: Assets/_MAIN/Scenes/RumputLaut/5_Closing.unity
     guid: 3214ea8cd5bb2b94aad0ed007832eb17
   - enabled: 1
+    path: Assets/_MAIN/Scenes/Keramba/1_KerambaOpening.unity
+    guid: d47aa702fd33db741be075082715872d
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/Keramba/2_Packaging.unity
+    guid: 6547c0fe014db0846bc4dc7ea5598469
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/Keramba/3_CabangTourLobster.unity
+    guid: 1ec89550f14096542b6bfb219c1cc111
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/Keramba/4_SpeedboatToTambakApung.unity
+    guid: 53f5c401aeb7fe241a98380efca61419
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/Keramba/5_TambakApung.unity
+    guid: 9b134e91d0741be4bb3011c3f2b9613d
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/Keramba/6_SpeedboatToTambakBawahAir.unity
+    guid: 11fe9dd1e1480b24a8f9540387999599
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/Keramba/7_TambakBawahAir.unity
+    guid: a86d00f6b0efa0b4cac902a2ae7292b5
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/Keramba/8_Menyelam.unity
+    guid: 2de3d9001a5b1a44ca2e38ca4d45f7f3
+  - enabled: 1
+    path: Assets/_MAIN/Scenes/Keramba/9_TambakBawahAir.unity
+    guid: 7f15da36f898e8e4db36ebbc909580a0
+  - enabled: 1
     path: Assets/_MAIN/Scenes/HiuPaus/1_HiuPaus.unity
     guid: 674fc49012ed6ba46b59dababc503a1e
   - enabled: 1

@@ -13,7 +13,6 @@ public class SceneController : MonoBehaviour
     private bool isEnding = false;
 
     private AudioSource audios;
-    public VideoPlayer videos;
 
     private void Start()
     {
@@ -29,13 +28,6 @@ public class SceneController : MonoBehaviour
                 StartCoroutine(ChangesScene());
             }
         }
-        else
-        {
-            if (!videos.isPlaying)
-            {
-                //StartCoroutine(ExitScene());
-            }
-        }
     }
 
     IEnumerator ChangesScene()
@@ -44,12 +36,9 @@ public class SceneController : MonoBehaviour
         SceneManager.LoadScene(changeSceneTo);
     }
 
-//    IEnumerator ExitScene()
-//    {
-//        yield return new WaitForSeconds(2f);
-//        Application.Quit();
-//#if UNITY_EDITOR
-//        Debug.Log("Sudah keluar VR!");
-//#endif
-//    }
+    IEnumerator ExitScene()
+    {
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene("MainMenu");
+    }
 }

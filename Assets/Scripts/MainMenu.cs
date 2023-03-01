@@ -75,7 +75,7 @@ public class MainMenu : MonoBehaviour
 
     public void PlayKeramba()
     {
-        SceneManager.LoadScene("1_keramba_opening");
+        SceneManager.LoadScene("1_KerambaOpening");
     }
 
     public void ShowHiuPaus()
