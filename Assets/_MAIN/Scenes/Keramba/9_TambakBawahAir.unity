@@ -210,7 +210,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 251537035}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: fa2e69c1c941b0943bccc75dd8030095, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: bcc5e79e006bf2b4e8f79b1d7f924659, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -816,7 +816,7 @@ PrefabInstance:
     - target: {fileID: 2898489599157634988, guid: c0f0d9390c8d98342837d3c763b599ac,
         type: 3}
       propertyPath: changeSceneTo
-      value: MainMenu
+      value: 1_KerambaOpening
       objectReference: {fileID: 0}
     - target: {fileID: 2898489599157634989, guid: c0f0d9390c8d98342837d3c763b599ac,
         type: 3}

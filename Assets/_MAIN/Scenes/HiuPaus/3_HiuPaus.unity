@@ -210,7 +210,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 251537035}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: ffa7fe0159683934fbac6ad55533bc83, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: eba12952a1c44ca4db0ebfa8c27f280e, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -1066,7 +1066,7 @@ PrefabInstance:
     - target: {fileID: 2898489599157634988, guid: c0f0d9390c8d98342837d3c763b599ac,
         type: 3}
       propertyPath: changeSceneTo
-      value: MainMenu
+      value: 1_HiuPaus
       objectReference: {fileID: 0}
     - target: {fileID: 2898489599157634989, guid: c0f0d9390c8d98342837d3c763b599ac,
         type: 3}
